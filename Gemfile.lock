@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/fnando/i18n-js.git
+  revision: 93275cc97b51bc3d454e19fec65ab76cbb4b1ad3
+  specs:
+    i18n-js (3.0.0.rc7)
+      i18n (~> 0.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -109,6 +116,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+  i18n-js!
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.1.6)

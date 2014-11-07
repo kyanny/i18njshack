@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'i18n-js', github: 'fnando/i18n-js'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.6'
