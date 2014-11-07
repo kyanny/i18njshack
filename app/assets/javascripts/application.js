@@ -13,4 +13,11 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require i18n/translations
 //= require_tree .
+
+$(function(){
+  I18n.defaultLocale = 'en';
+  I18n.locale = 'en';
+  I18n.currentLocale();
+});

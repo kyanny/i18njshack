@@ -1,6 +1,7 @@
 GIT
-  remote: git://github.com/fnando/i18n-js.git
-  revision: 93275cc97b51bc3d454e19fec65ab76cbb4b1ad3
+  remote: git://github.com/kyanny/i18n-js.git
+  revision: 69b77a3f4e70e74b890062c0d4565dd685126683
+  branch: none
   specs:
     i18n-js (3.0.0.rc7)
       i18n (~> 0.6)

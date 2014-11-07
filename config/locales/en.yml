@@ -21,3 +21,8 @@
 
 en:
   hello: "Hello world"
+  assignments:
+    one: "1 assignment ONE"
+    other: "%{count} assignments OTHER"
+    none: "No assignments NONE"
+    # zero: "No assignments ZERO"
